@@ -20,11 +20,11 @@
 </div>
 
 ### :fire: My Stats :
-[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haruntime&theme=vue-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haruntime&theme=vue-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruntime&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruntime&layout=compact&theme=vision-friendly-dark)
 
-[Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruntime&count_private=true&show_icons=true&theme=tokyonight)
+![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruntime&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **haRuntime/haruntime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
