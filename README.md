@@ -24,7 +24,6 @@
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=haRuntime&theme=blood-dark" alt="GitHub Streak" /></a>
 
-![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruntime&count_private=true&show_icons=true&theme=tokyonight)
 
 ### :globe_with_meridians: Social Accounts:
 <div id="badges">
